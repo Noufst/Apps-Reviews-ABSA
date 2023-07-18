@@ -21,7 +21,7 @@ Our automated technique is intended to (1) identify the most useful and effectiv
 The below table describes the functionality of each file. Each file can be run independently based on one's needs. 
 
 | File        | Task           | Model  |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 | ACD_BERT.ipynb      | Aspect Category Detection (ACD) | BERT |
 | ACD_LSTM_CNN.ipynb     | Aspect Category Detection (ACD)      |   LSTM and CNN |
 | ACD_ML.ipynb | Aspect Category Detection (ACD)      |    Decision Trees (DT) using CART algorithm, Gaussian Naive Bayes (GNB), K-Nearest Neighbour (KNN), Logistic Regression (LR), Multilayer Perceptron (MLP), and Support Vector Machine (SVM) |
